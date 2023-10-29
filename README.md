@@ -1,7 +1,7 @@
 # Projeto de Análise de engajamento no Instagram
 ## Objetivo
 
-O projeto tem a finalidade de apresentar qual o meio de publicação que gera maior engajamento e o que é fundamental nessas publicações.
+O projeto tem a finalidade de apresentar qual o tipo de publicação que gera maior engajamento e o ponto-chave nessas publicações.
 
 ## Fonte da consulta
 [Kaggle](https://www.kaggle.com/)
